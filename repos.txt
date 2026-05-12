@@ -18,5 +18,8 @@ KaringX/karing|\.dmg|\.exe
 # 5. Disable a line by commenting it with #
 # masterking32/MasterDnsVPN|Client_MacOS_AMD64.zip|Client_Windows_AMD64.zip
 
-# 1. No filter – keep all assets from the release
+# 6. No filter – keep all assets from the release
 ajavadinezhad/zyrln
+
+# 7. No filter – keep all assets from the release
+2dust/v2rayN
