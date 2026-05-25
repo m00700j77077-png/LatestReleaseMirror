@@ -157,6 +157,27 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="2dust--v2rayng"></div>
+
+### 2dust--v2rayNG
+
+🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.1.8</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.1.8)
+
+| File | Size | Download |
+|------|------|----------|
+| `v2rayNG_2.1.8-fdroid_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.1.8-fdroid_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8-fdroid_armeabi-v7a.apk) |
+| `v2rayNG_2.1.8-fdroid_universal.apk` | 61.9 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8-fdroid_universal.apk) |
+| `v2rayNG_2.1.8-fdroid_x86.apk` | 28.1 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8-fdroid_x86.apk) |
+| `v2rayNG_2.1.8-fdroid_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8-fdroid_x86_64.apk) |
+| `v2rayNG_2.1.8_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8_arm64-v8a.apk) |
+| `v2rayNG_2.1.8_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8_armeabi-v7a.apk) |
+| `v2rayNG_2.1.8_universal.apk` | 61.9 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8_universal.apk) |
+| `v2rayNG_2.1.8_x86.apk` | 28.1 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8_x86.apk) |
+| `v2rayNG_2.1.8_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8_x86_64.apk) |
+
+---
+
 <div id="karingx--karing"></div>
 
 ### KaringX--karing
@@ -187,16 +208,16 @@ sha256sum FILE_NAME
 
 ### SagerNet--sing-box
 
-🔗 [source](https://github.com/SagerNet/sing-box) – [<code><small>v1.13.11</small></code>](https://github.com/SagerNet/sing-box/releases/tag/v1.13.11)
+🔗 [source](https://github.com/SagerNet/sing-box) – [<code><small>v1.13.12</small></code>](https://github.com/SagerNet/sing-box/releases/tag/v1.13.12)
 
 | File | Size | Download |
 |------|------|----------|
-| `SFA-1.13.11-arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.11-arm64-v8a.apk) |
-| `SFA-1.13.11-legacy-android-5-arm64-v8a.apk` | 22.2 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.11-legacy-android-5-arm64-v8a.apk) |
-| `sing-box-1.13.11-darwin-amd64.tar.gz` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-darwin-amd64.tar.gz) |
-| `sing-box-1.13.11-darwin-arm64.tar.gz` | 17.7 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-darwin-arm64.tar.gz) |
-| `sing-box-1.13.11-windows-amd64.zip` | 19.4 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-windows-amd64.zip) |
-| `sing-box-1.13.11-windows-amd64-legacy-windows-7.zip` | 15.1 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-windows-amd64-legacy-windows-7.zip) |
+| `SFA-1.13.12-arm64-v8a.apk` | 26.9 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.12-arm64-v8a.apk) |
+| `SFA-1.13.12-legacy-android-5-arm64-v8a.apk` | 22.2 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.12-legacy-android-5-arm64-v8a.apk) |
+| `sing-box-1.13.12-darwin-amd64.tar.gz` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.12-darwin-amd64.tar.gz) |
+| `sing-box-1.13.12-darwin-arm64.tar.gz` | 17.7 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.12-darwin-arm64.tar.gz) |
+| `sing-box-1.13.12-windows-amd64.zip` | 19.4 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.12-windows-amd64.zip) |
+| `sing-box-1.13.12-windows-amd64-legacy-windows-7.zip` | 15.1 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.12-windows-amd64-legacy-windows-7.zip) |
 
 ---
 
@@ -204,14 +225,15 @@ sha256sum FILE_NAME
 
 ### ajavadinezhad--zyrln
 
-🔗 [source](https://github.com/ajavadinezhad/zyrln) – [<code><small>v1.4.0</small></code>](https://github.com/ajavadinezhad/zyrln/releases/tag/v1.4.0)
+🔗 [source](https://github.com/ajavadinezhad/zyrln) – [<code><small>v1.6.0</small></code>](https://github.com/ajavadinezhad/zyrln/releases/tag/v1.6.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `zyrln-1.4.0.apk` | 22.9 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-1.4.0.apk) |
-| `zyrln-linux-amd64` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-linux-amd64) |
-| `zyrln-relay` | 8.8 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-relay) |
-| `zyrln-windows-amd64.exe` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-windows-amd64.exe) |
+| `zyrln-1.6.apk` | 26.6 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-1.6.apk) |
+| `zyrln-1.6-darwin-amd64` | 12.8 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-1.6-darwin-amd64) |
+| `zyrln-1.6-darwin-arm64` | 12.2 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-1.6-darwin-arm64) |
+| `zyrln-1.6-linux-amd64` | 12.7 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-1.6-linux-amd64) |
+| `zyrln-1.6-windows-amd64.exe` | 12.7 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-1.6-windows-amd64.exe) |
 
 ---
 
@@ -219,24 +241,24 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.23</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.23)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.34</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.34)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.23.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.23.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.23.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.23.apk) |
-| `mhrv-rs-android-universal-v1.9.23.apk` | 41.2 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.23.apk) |
-| `mhrv-rs-android-x86-v1.9.23.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.23.apk) |
-| `mhrv-rs-android-x86_64-v1.9.23.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.23.apk) |
-| `mhrv-rs-linux-amd64.tar.gz` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
-| `mhrv-rs-linux-arm64.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
-| `mhrv-rs-linux-musl-amd64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
-| `mhrv-rs-linux-musl-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-arm64.tar.gz) |
-| `mhrv-rs-macos-amd64.tar.gz` | 7.1 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64.tar.gz) |
-| `mhrv-rs-macos-amd64-app.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64-app.zip) |
-| `mhrv-rs-macos-arm64.tar.gz` | 6.5 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64.tar.gz) |
-| `mhrv-rs-macos-arm64-app.zip` | 4.6 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64-app.zip) |
-| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 2.2 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
-| `mhrv-rs-raspbian-armhf.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-raspbian-armhf.tar.gz) |
-| `mhrv-rs-windows-amd64.zip` | 7.5 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+| `mhrv-rs-android-arm64-v8a-v1.9.34.apk` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.34.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.34.apk` | 17.0 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.34.apk) |
+| `mhrv-rs-android-universal-v1.9.34.apk` | 45.4 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.34.apk) |
+| `mhrv-rs-android-x86-v1.9.34.apk` | 20.6 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.34.apk) |
+| `mhrv-rs-android-x86_64-v1.9.34.apk` | 20.7 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.34.apk) |
+| `mhrv-rs-linux-amd64.tar.gz` | 10.7 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
+| `mhrv-rs-linux-arm64.tar.gz` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
+| `mhrv-rs-linux-musl-amd64.tar.gz` | 2.8 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
+| `mhrv-rs-linux-musl-arm64.tar.gz` | 2.6 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-arm64.tar.gz) |
+| `mhrv-rs-macos-amd64.tar.gz` | 8.0 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64.tar.gz) |
+| `mhrv-rs-macos-amd64-app.zip` | 5.4 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64-app.zip) |
+| `mhrv-rs-macos-arm64.tar.gz` | 7.2 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64.tar.gz) |
+| `mhrv-rs-macos-arm64-app.zip` | 4.9 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64-app.zip) |
+| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 2.8 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
+| `mhrv-rs-raspbian-armhf.tar.gz` | 2.4 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-raspbian-armhf.tar.gz) |
+| `mhrv-rs-windows-amd64.zip` | 8.5 MB | [⬇️ Download](https://raw.githubusercontent.com/m00700j77077-png/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
